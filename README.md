@@ -15,7 +15,7 @@ Write a python program for matrix multiplication and inspect for failures.
 6. Stop the program. 
 
 ## Program
-```
+```python
 
 r1, c1 = input("Enter row and column count for matrix 1: ").split()
 r2, c2 = input("Enter row and column count for matrix 2: ").split()
